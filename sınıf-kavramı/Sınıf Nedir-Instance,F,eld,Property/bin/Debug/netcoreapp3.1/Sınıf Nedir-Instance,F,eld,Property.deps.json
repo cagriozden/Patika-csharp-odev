@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sınıf Nedir-Instance,F,eld,Property/1.0.0": {
+        "runtime": {
+          "Sınıf Nedir-Instance,F,eld,Property.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sınıf Nedir-Instance,F,eld,Property/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

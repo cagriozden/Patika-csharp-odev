@@ -1,0 +1,14 @@
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\bin\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.exe
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\bin\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.deps.json
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\bin\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.runtimeconfig.json
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\bin\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.runtimeconfig.dev.json
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\bin\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.dll
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\bin\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.pdb
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.csproj.AssemblyReference.cache
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.AssemblyInfo.cs
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.dll
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.pdb
+C:\Users\Çağrı Özden\source\repos\Sınıf Nedir-Instance,F,eld,Property\Sınıf Nedir-Instance,F,eld,Property\obj\Debug\netcoreapp3.1\Sınıf Nedir-Instance,F,eld,Property.genruntimeconfig.cache

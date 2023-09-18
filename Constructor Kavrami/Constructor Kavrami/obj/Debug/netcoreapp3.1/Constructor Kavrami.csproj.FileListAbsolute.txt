@@ -1,0 +1,14 @@
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\bin\Debug\netcoreapp3.1\Constructor Kavrami.exe
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\bin\Debug\netcoreapp3.1\Constructor Kavrami.deps.json
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\bin\Debug\netcoreapp3.1\Constructor Kavrami.runtimeconfig.json
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\bin\Debug\netcoreapp3.1\Constructor Kavrami.runtimeconfig.dev.json
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\bin\Debug\netcoreapp3.1\Constructor Kavrami.dll
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\bin\Debug\netcoreapp3.1\Constructor Kavrami.pdb
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.csproj.AssemblyReference.cache
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.AssemblyInfo.cs
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.dll
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.pdb
+C:\Users\Çağrı Özden\source\repos\Constructor Kavrami\Constructor Kavrami\obj\Debug\netcoreapp3.1\Constructor Kavrami.genruntimeconfig.cache

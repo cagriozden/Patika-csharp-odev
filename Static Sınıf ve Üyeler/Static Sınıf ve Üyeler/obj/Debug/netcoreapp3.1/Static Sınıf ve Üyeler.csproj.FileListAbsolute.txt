@@ -1,0 +1,14 @@
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.exe
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.deps.json
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.runtimeconfig.json
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.runtimeconfig.dev.json
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.dll
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.pdb
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.AssemblyInfo.cs
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.dll
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.pdb
+C:\Users\Çağrı Özden\source\repos\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\netcoreapp3.1\Static Sınıf ve Üyeler.genruntimeconfig.cache

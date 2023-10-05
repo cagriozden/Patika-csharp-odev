@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Çağrı Özden\\source\\repos\\Patika_week1_Book\\Patika_week1_Book\\Patika_week1_Book.csproj",
+      "projectUniqueName": "C:\\Users\\Çağrı Özden\\Documents\\GitHub\\Patika-csharp-odev\\Patika_week1_Book\\Patika_week1_Book\\Patika_week1_Book.csproj",
       "projectName": "Patika_week1_Book",
-      "projectPath": "C:\\Users\\Çağrı Özden\\source\\repos\\Patika_week1_Book\\Patika_week1_Book\\Patika_week1_Book.csproj",
+      "projectPath": "C:\\Users\\Çağrı Özden\\Documents\\GitHub\\Patika-csharp-odev\\Patika_week1_Book\\Patika_week1_Book\\Patika_week1_Book.csproj",
       "packagesPath": "C:\\Users\\Çağrı Özden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Çağrı Özden\\source\\repos\\Patika_week1_Book\\Patika_week1_Book\\obj\\",
+      "outputPath": "C:\\Users\\Çağrı Özden\\Documents\\GitHub\\Patika-csharp-odev\\Patika_week1_Book\\Patika_week1_Book\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

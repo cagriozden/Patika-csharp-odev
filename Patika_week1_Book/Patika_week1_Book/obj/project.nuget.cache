@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iAQFhJMqIa3R3jxBkvRW8lm1fD8rUtc+5dXrUwyMddqHQYYPP0EGswK+msER8EDRUnUargOmeenAzeOCFMA3WQ==",
+  "dgSpecHash": "Ije4PljckxV5nbI0YlmyvhVkWUDhQkwDN/3mnjCAgh7lNaGnpCHbwJVimKpFBdlQCzNmpdlC0Hybg3VDY9PgNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Çağrı Özden\\source\\repos\\Patika_week1_Book\\Patika_week1_Book\\Patika_week1_Book.csproj",
+  "projectFilePath": "C:\\Users\\Çağrı Özden\\Documents\\GitHub\\Patika-csharp-odev\\Patika_week1_Book\\Patika_week1_Book\\Patika_week1_Book.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Çağrı Özden\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Çağrı Özden\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

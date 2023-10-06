@@ -1,7 +1,5 @@
---test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım-
---CREATE TABLE employee(id INTEGER, name VARCHAR(50), birthday DATE, email VARCHAR(100));
 
---Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim-
+--Mockaroo servisini kullanarak 50 adet veri ekleyelim-
 
 INSERT INTO employee (name, birthday, email) VALUES
 ('cagri', '1992-09-12', 'cagrsun@sun.com'),
@@ -55,7 +53,7 @@ INSERT INTO employee (name, birthday, email) VALUES
 ('Ursola', '2000-01-17', 'umullen1c@eepurl.com'),
 ('Debbie', '2002-07-29', 'dsirey1d@hp.com');
 
---5 adet update eklenmesi-
+--3 adet update eklenmesi-
 UPDATE employee 
 SET name = 'cagri',
     birthday = '1998-05-21',
@@ -74,7 +72,7 @@ SET name = 'haydar',
     email = 'hhaydar1998@gmail.com'
 WHERE id = 3
 
-5 adet DELETE işlemi yapalım-
+--3 adet DELETE işlemi yapalım
 
 DELETE FROM employee
 WHERE id in(13,22,32)
